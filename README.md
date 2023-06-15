@@ -8,13 +8,13 @@ Developed in Fall 2020.
 
 Start by cloning the repo:
 
-'''console
+```bash
 $ git clone git@github.com:christo-polydorou/holdem.git
-'''
+```
 
 With python installed on your machine, run the main.py script: 
 
-'''console
+```bash
 $ python main.py
-'''
+```
 
